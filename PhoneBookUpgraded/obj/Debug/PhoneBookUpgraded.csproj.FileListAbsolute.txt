@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\PhoneBookUpgraded\PhoneBookUpgraded\obj\Debug\PhoneBookUpgraded.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\PhoneBookUpgraded\PhoneBookUpgraded\obj\Debug\PhoneBookUpgraded.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\PhoneBookUpgraded\PhoneBookUpgraded\obj\Debug\PhoneBookUpgraded.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PhoneBookUpgraded\PhoneBookUpgraded\bin\Debug\PhoneBookUpgraded.exe.config
+C:\Users\Admin\Desktop\PhoneBookUpgraded\PhoneBookUpgraded\bin\Debug\PhoneBookUpgraded.exe
+C:\Users\Admin\Desktop\PhoneBookUpgraded\PhoneBookUpgraded\bin\Debug\PhoneBookUpgraded.pdb
+C:\Users\Admin\Desktop\PhoneBookUpgraded\PhoneBookUpgraded\obj\Debug\PhoneBookUpgraded.exe
+C:\Users\Admin\Desktop\PhoneBookUpgraded\PhoneBookUpgraded\obj\Debug\PhoneBookUpgraded.pdb
